@@ -19,7 +19,7 @@ In order to use this project you must have node.js, an npm, express, and a uuid.
 In order to start the note taking app, the user must click on the "Get Started" button. The user can then type in the title and their notes, and a save button will appear. When the save button is clicked their notes will be listed on the left hand side, they can revisit their notes by clicking on the slots on the left in addition to delete their notes.
 
 ## Contribution
-N/A
+Corey Yates (Tutor)
 
 ## Tests
 N/A
