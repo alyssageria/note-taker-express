@@ -1,7 +1,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# ![Note Taker - Express.js](https://note-taker-expressjs1.herokuapp.com/)
+# [Note Taker - Express.js](https://note-taker-expressjs1.herokuapp.com/)
 
 ## Description
 The purpose and motivation behind this project was to create a note taking app where the user can create various notes that will be saved for them to revisit later on if they would like. In addition, they will be able to delete any notes they would like.
